@@ -9,6 +9,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/rsz_1download.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
                 "file": "images/bt-iconpng.png",
                 "name": "IMAGE_BT_ICON",
                 "type": "png"
@@ -28,7 +34,7 @@
     "shortName": "BOLD",
     "uuid": "055d7576-e98d-440e-96c3-e38a6049c0e8",
     "versionCode": 1,
-    "versionLabel": "1.0.0-rls",
+    "versionLabel": "1.0.1-rls",
     "watchapp": {
         "watchface": true
     }
